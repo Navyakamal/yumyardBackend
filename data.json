@@ -1,0 +1,46 @@
+{
+  "dishes": [
+    {
+      "name": "Mojito",
+      "price": "180",
+      "category": "5",
+      "image": "https://images.pexels.com/photos/4784/alcohol-bar-party-cocktail.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 3
+    },
+    {
+      "name": "Tomato Soup",
+      "price": "170",
+      "category": "3",
+      "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 4
+    },
+    {
+      "name": "Cheese cake",
+      "price": "250",
+      "category": "4",
+      "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 5
+    },
+    {
+      "name": "Salad",
+      "price": "240",
+      "category": "1",
+      "image": "https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 6
+    },
+    {
+      "name": "Beef Steak",
+      "price": "350",
+      "category": "2",
+      "image": "https://images.pexels.com/photos/1352262/pexels-photo-1352262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 7
+    }
+  ],
+  "admins": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "profile": ""
+    }
+  ]
+}
